@@ -16,7 +16,7 @@ section
     overflow: hidden;
     
     box-sizing: border-box;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.753),rgba(0, 0, 0, 0)),url(/back1.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.753),rgba(0, 0, 0, 0)),url(back1.jpg);
     background-position: center;
     background-size: cover;
 }
